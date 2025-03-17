@@ -2,6 +2,7 @@
 title: "e-Yantra Robotics Competition 2022-23"
 excerpt: "Autonomous Ground Vehicle (AGV) for navigating a greenhouse to pluck targeted yield<br/><img src='/images/project7_1.png'>"
 collection: portfolio
+layout: archive
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

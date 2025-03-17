@@ -6,10 +6,10 @@
 
 main:
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
 
   - title: "Blogs"
-    url: /year-archive/
+    url: /blogs/
 
   - title: "Publications"
     url: /publications/
