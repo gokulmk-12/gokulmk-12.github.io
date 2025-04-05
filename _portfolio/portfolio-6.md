@@ -1,6 +1,6 @@
 ---
 title: "Exploring Various Robotic Grasping Algorithms"
-excerpt: "A Comprehensive Study on various Grasping Algorithms<br/><img src='/images/project6_1.png'>"
+excerpt: "A Comprehensive Study on various Grasping Algorithms<br/><img src='/images/project6_1.png' width='500' height='400'>"
 collection: portfolio
 layout: archive
 ---

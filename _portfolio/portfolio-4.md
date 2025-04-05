@@ -1,6 +1,6 @@
 ---
 title: "Denoising and Deblurring MVTEC AD Dataset"
-excerpt: "Deep Neural Networks for Denoising MVTEC AD Dataset by KLA<br/><img src='/images/project4_1.png'>"
+excerpt: "Deep Neural Networks for Denoising MVTEC AD Dataset by KLA<br/><img src='/images/project4_1.png' width='500' height='400'>"
 collection: portfolio
 layout: archive
 ---

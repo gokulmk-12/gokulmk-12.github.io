@@ -1,6 +1,6 @@
 ---
 title: "Trajectory Continous Optimal Planning using a Mobile Manipulator"
-excerpt: "Optimal Motion Planning for Mobile Manipulator System<br/><img src='/images/project5_1.png'>"
+excerpt: "Optimal Motion Planning for Mobile Manipulator System<br/><img src='/images/project5_1.png' width='500' height='400'>"
 collection: portfolio
 layout: archive
 ---

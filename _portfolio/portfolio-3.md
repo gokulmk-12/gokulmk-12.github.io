@@ -1,6 +1,6 @@
 ---
 title: "Implicit Reinforcement without Interaction at Scale"
-excerpt: "Sub-optimality and Diversity challenges in Offline RL<br/><img src='/images/project3_1.png'>"
+excerpt: "Sub-optimality and Diversity challenges in Offline RL<br/><img src='/images/project3_1.png' width='500' height='400'>"
 collection: portfolio
 layout: archive
 ---

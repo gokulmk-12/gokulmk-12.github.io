@@ -1,6 +1,6 @@
 ---
 title: "e-Yantra Robotics Competition 2022-23"
-excerpt: "Autonomous Ground Vehicle (AGV) for navigating a greenhouse to pluck targeted yield<br/><img src='/images/project7_1.png'>"
+excerpt: "Autonomous Ground Vehicle (AGV) for navigating a greenhouse to pluck targeted yield<br/><img src='/images/project7_1.png' width='500' height='400'>"
 collection: portfolio
 layout: archive
 ---

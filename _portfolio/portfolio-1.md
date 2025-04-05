@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Swarm Navigation"
-excerpt: "Multi-Agent RL for Dynamic Swarm Navigation<br/><img src='/images/project1_1.png'>"
+excerpt: "Multi-Agent RL for Dynamic Swarm Navigation<br/><img src='/images/project1_1.png' width='500' height='400'>"
 collection: portfolio
 layout: archive
 ---
